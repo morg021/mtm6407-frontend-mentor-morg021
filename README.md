@@ -1,1 +1,3 @@
-# mtm6407-frontend-mentor-morg021
+# Izekor Morgan
+## Student number: 041080578
+### Loopstudios landing page
